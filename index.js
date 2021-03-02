@@ -1,3 +1,1 @@
-//hejsan
-//hej
-//asdsfjahlsdfhua
+prompt("Är du en robot?", "Vem är du att fråga?");
